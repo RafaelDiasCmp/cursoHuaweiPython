@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f8c5a2-6a01-4b98-ae20-43f9afe8f5d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cursoHuawei.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex002_new.py" afterDir="false" />
+    <list default="true" id="70f8c5a2-6a01-4b98-ae20-43f9afe8f5d0" name="Changes" comment="Primeiros exercícios do curso Huawei de Python">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2gkNHrTQIwmS788iPQB66zj0P8B" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +49,16 @@
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex002_new.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -65,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716237531296</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiros exercícios do curso Huawei de Python">
+      <option name="closed" value="true" />
+      <created>1716248534660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716248534660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiros exercícios do curso Huawei de Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros exercícios do curso Huawei de Python" />
   </component>
 </project>
